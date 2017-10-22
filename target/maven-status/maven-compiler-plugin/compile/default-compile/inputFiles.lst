@@ -1,0 +1,7 @@
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/domain/InfoAnalysis.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/InfoAnalysisServiceApplication.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/rest/RunningInformationRestController.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/domain/UserInfo.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/domain/InformationRepository.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/service/impl/InfoAnalysisServiceImpl.java
+/home/vagrant/workspace/running-information-analysis-service/src/main/java/demo/service/InfoAnalysisService.java

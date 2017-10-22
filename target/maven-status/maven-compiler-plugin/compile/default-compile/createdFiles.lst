@@ -1,0 +1,7 @@
+demo/domain/UserInfo.class
+demo/service/impl/InfoAnalysisServiceImpl.class
+demo/domain/InformationRepository.class
+demo/rest/RunningInformationRestController.class
+demo/service/InfoAnalysisService.class
+demo/domain/InfoAnalysis.class
+demo/InfoAnalysisServiceApplication.class
